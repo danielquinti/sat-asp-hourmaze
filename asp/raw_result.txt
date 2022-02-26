@@ -1,0 +1,11 @@
+clingo version 5.3.0
+Reading from general.lp ...
+Solving...
+Answer: 1
+cell_value(1,1,11) cell_value(1,5,1) cell_value(4,2,1) cell_value(4,4,1) cell_value(6,8,1) cell_value(2,1,12) cell_value(1,4,8) cell_value(2,4,7) cell_value(2,5,2) cell_value(1,6,12) cell_value(2,6,11) cell_value(1,7,9) cell_value(2,7,10) cell_value(1,8,8) cell_value(2,8,7) cell_value(2,2,5) cell_value(3,2,4) cell_value(2,3,6) cell_value(3,3,5) cell_value(3,5,3) cell_value(3,8,6) cell_value(3,1,3) cell_value(4,1,2) cell_value(4,3,6) cell_value(4,5,2) cell_value(3,6,4) cell_value(4,6,3) cell_value(3,7,5) cell_value(4,7,4) cell_value(5,2,12) cell_value(5,3,7) cell_value(5,4,12) cell_value(5,7,5) cell_value(4,8,3) cell_value(5,8,2) cell_value(5,1,11) cell_value(6,1,10) cell_value(6,3,8) cell_value(6,4,11) cell_value(5,5,9) cell_value(6,5,10) cell_value(5,6,8) cell_value(6,6,7) cell_value(6,7,6) cell_value(1,2,10) cell_value(1,3,9) cell_value(3,4,4) cell_value(6,2,9)
+SATISFIABLE
+
+Models       : 1
+Calls        : 1
+Time         : 0.011s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.011s
